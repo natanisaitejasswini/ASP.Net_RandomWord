@@ -1,0 +1,29 @@
+h3{
+margin-left: 400px;
+width: 450px;
+height: 50px;
+padding-left: 25px;
+margin-top: 20px;
+padding-top: 10px;
+}
+p{
+font-size: 35px;
+margin-left: 250px;
+width: 450px;
+height: 100px;
+padding-top: 40px;
+padding-left: 60px;
+padding-right: -60px;
+}
+div{
+margin-left: 340px;
+width: 300px;
+height: 60px;
+font-size: 25px;
+text-align: center;
+padding-top: 10px;
+}
+input[type=submit]{
+margin-left: 480px;
+margin-top: 50px;
+}
